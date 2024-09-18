@@ -1,5 +1,5 @@
-# ProfileInfo
-👋 Hello, I'm Lawshia Prabath!
+# 👋 Hello, I'm Lawshia Prabath!
+
 🎓 Data Scientist | Real-World Evidence Specialist | AI & ML Enthusiast
 
 I'm a passionate Data Scientist with over 3 years of experience, skilled in leveraging healthcare analytics, real-world evidence studies, and market research to drive insights and innovation. I hold a Master's in Data Science from the University at Buffalo, and my work spans advanced machine learning, time series forecasting, and LLM-based generative AI applications.
