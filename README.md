@@ -16,19 +16,19 @@ Cloud & Big Data: AWS, Google Cloud, Spark, Hadoop, PySpark, Google Analytics
 Healthcare Analytics: Truven MarketScan, Optum, Pharmetrics, Humedica, SNOMED, ICD
 Frameworks & Tools: Streamlit, Langchain, API, GitHub, JIRA, FAISS, OpenAI
 🚀 Highlighted Projects
-🔹 Retrieval-Augmented Generation Chatbot
+###🔹 Retrieval-Augmented Generation Chatbot
 Tech Stack: Groq, Llama, ChromaDB, Python, Streamlit, GenerativeAI
 
 Built an LLM-powered chatbot using Groq's inferencing engine and Llama, reducing average response time by 50% while enhancing the user experience through faster interactions. Integrated ChromaDB for efficient data retrieval.
-🔹 Data Science News Chatbot
+###🔹 Data Science News Chatbot
 Tech Stack: Langchain, OpenAI, FAISS, Streamlit
 
 Designed a chatbot to reduce research time by 60% using web scraping, LLM models, and retrieval systems. FAISS embeddings cut API costs by 30%.
-🔹 Forecasting Initial Claims Data
+###🔹 Forecasting Initial Claims Data
 Tech Stack: ARIMA, Regression, Holt-Winter, R
 
 Built and refined time series forecasting models, using custom functions to improve performance and predict unemployment claims with high accuracy.
-🔹 FDA Food Recall Dashboard
+###🔹 FDA Food Recall Dashboard
 Tech Stack: Python, K Means Clustering, Tableau
 
 Utilized NLP to analyze FDA food recall data, clustering by type and built an interactive dashboard showcasing trends and insights.
