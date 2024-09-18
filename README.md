@@ -21,38 +21,4 @@ I enjoy working on cutting-edge projects involving **AI/ML**, **data engineering
 
 ---
 
-### 🚀 **Highlighted Projects**
-
-#### 🔹 **[Retrieval-Augmented Generation Chatbot](https://rag-chatbot-with-groq.streamlit.app/)**
-**Tech Stack:** Groq, Llama, ChromaDB, Python, Streamlit, GenerativeAI  
-- Built an LLM-powered chatbot using Groq's inferencing engine and Llama, reducing average response time by 50% while enhancing the user experience through faster interactions. Integrated ChromaDB for efficient data retrieval.
-
-#### 🔹 **[Data Science News Chatbot](https://github.com/NikhilAdvani/RAG-Chatbot-using-Groq)**
-**Tech Stack:** Langchain, OpenAI, FAISS, Streamlit  
-- Designed a chatbot to reduce research time by 60% using web scraping, LLM models, and retrieval systems. FAISS embeddings cut API costs by 30%.
-
-#### 🔹 **[Forecasting Initial Claims Data](https://github.com/your-repo)**
-**Tech Stack:** ARIMA, Regression, Holt-Winter, R  
-- Built and refined time series forecasting models, using custom functions to improve performance and predict unemployment claims with high accuracy.
-
-#### 🔹 **[FDA Food Recall Dashboard](https://github.com/your-repo)**
-**Tech Stack:** Python, K Means Clustering, Tableau  
-- Utilized NLP to analyze FDA food recall data, clustering by type and built an interactive dashboard showcasing trends and insights.
-
----
-
-### 🌟 **Professional Experience**
-
-#### **Data Scientist, Mu Sigma**
-- Spearheaded real-world healthcare projects, leveraging market data to identify $10M+ in savings for pharmaceutical clients through predictive modeling and analysis.
-- Built reusable Python dashboards that cut project turnaround times by 70%, streamlining processes across the organization.
-
----
-
-### 📫 **Get in Touch**
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lawshia-prabath/)
-- **Email:** lawshiap@buffalo.edu
-
----
-
 Thank you for visiting my GitHub! Feel free to explore my projects, and reach out if you'd like to collaborate or discuss opportunities.
